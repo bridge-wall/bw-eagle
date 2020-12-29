@@ -3,7 +3,7 @@ package eagle
 import (
 	"net/http"
 
-	"github.com/blust/bw-eagle/middleware"
+	"github.com/bridge-wall/bw-eagle/middleware"
 	"github.com/gin-gonic/gin"
 )
 

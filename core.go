@@ -1,7 +1,7 @@
 package eagle
 
 import (
-	"github.com/blust/bw-eagle/middleware"
+	"github.com/bridge-wall/bw-eagle/middleware"
 	"github.com/gin-contrib/pprof"
 )
 

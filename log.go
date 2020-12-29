@@ -3,7 +3,7 @@ package eagle
 import (
 	"context"
 
-	"github.com/blust/bw-eagle/middleware"
+	"github.com/bridge-wall/bw-eagle/middleware"
 )
 
 func LogDebug(ctx context.Context, a interface{}) {

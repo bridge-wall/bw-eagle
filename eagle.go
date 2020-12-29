@@ -2,8 +2,8 @@ package eagle
 
 import (
 	"flag"
-	"github.com/blust/bw-eagle/middleware"
-	"github.com/blust/bw-eagle/redis"
+	"github.com/bridge-wall/bw-eagle/middleware"
+	"github.com/bridge-wall/bw-eagle/redis"
 	"time"
 )
 

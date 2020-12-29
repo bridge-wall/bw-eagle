@@ -2,9 +2,9 @@ package eagle
 
 import (
 	"context"
-	"github.com/blust/bw-eagle/redis"
+	"github.com/bridge-wall/bw-eagle/redis"
 
-	"github.com/blust/bw-eagle/middleware"
+	"github.com/bridge-wall/bw-eagle/middleware"
 	"github.com/gin-gonic/gin"
 )
 

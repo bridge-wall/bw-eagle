@@ -1,4 +1,4 @@
-module github.com/blust/bw-eagle
+module github.com/bridge-wall/bw-eagle
 
 go 1.14
 
