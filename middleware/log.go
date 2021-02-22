@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	_ "github.com/bridge-wall/bw-eagle/utils"
+	_ "github.com/rhonin-cd/rhonin-eagle/utils"
 	"github.com/gin-gonic/gin"
 	rotatelogs "github.com/lestrrat-go/file-rotatelogs"
 	"go.uber.org/zap"

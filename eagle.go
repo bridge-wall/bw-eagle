@@ -2,8 +2,8 @@ package eagle
 
 import (
 	"flag"
-	"github.com/bridge-wall/bw-eagle/middleware"
-	"github.com/bridge-wall/bw-eagle/redis"
+	"github.com/rhonin-cd/rhonin-eagle/middleware"
+	"github.com/rhonin-cd/rhonin-eagle/redis"
 	"time"
 )
 

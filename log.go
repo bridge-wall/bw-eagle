@@ -3,7 +3,7 @@ package eagle
 import (
 	"context"
 
-	"github.com/bridge-wall/bw-eagle/middleware"
+	"github.com/rhonin-cd/rhonin-eagle/middleware"
 )
 
 func LogDebug(ctx context.Context, a interface{}) {

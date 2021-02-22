@@ -1,4 +1,4 @@
-module github.com/bridge-wall/bw-eagle
+module github.com/rhonin-cd/rhonin-eagle
 
 go 1.14
 
