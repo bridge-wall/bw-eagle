@@ -3,7 +3,7 @@ package eagle
 import (
 	"net/http"
 
-	"github.com/bridge-wall/bw-eagle/middleware"
+	"github.com/rhonin-cd/rhonin-eagle/middleware"
 	"github.com/gin-gonic/gin"
 )
 

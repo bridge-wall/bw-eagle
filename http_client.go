@@ -5,8 +5,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/bridge-wall/bw-eagle/middleware"
-	"github.com/bridge-wall/bw-eagle/utils"
+	"github.com/rhonin-cd/rhonin-eagle/middleware"
+	"github.com/rhonin-cd/rhonin-eagle/utils"
 	"github.com/gin-gonic/gin"
 )
 

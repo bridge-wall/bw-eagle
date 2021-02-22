@@ -1,7 +1,7 @@
 package eagle
 
 import (
-	"github.com/bridge-wall/bw-eagle/middleware"
+	"github.com/rhonin-cd/rhonin-eagle/middleware"
 	"github.com/gin-contrib/pprof"
 )
 
